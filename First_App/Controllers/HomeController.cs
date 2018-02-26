@@ -13,5 +13,9 @@ namespace First_App.Controllers
         {
             return View();
         }
+        public ActionResult Demo()
+        {
+            return View();
+        }
     }
 }
